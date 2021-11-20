@@ -1,3 +1,9 @@
+golang-defaults (2:1.17~1~bpo11+1) bullseye-backports-staging; urgency=medium
+
+  * Rebuild for bullseye-backports-staging.
+
+ -- Pirate Praveen <praveen@debian.org>  Sat, 20 Nov 2021 14:12:22 +0530
+
 golang-defaults (2:1.17~1) unstable; urgency=medium
 
   * Update to Go 1.17.
