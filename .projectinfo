@@ -1,0 +1,1 @@
+{"project":"golang-defaults","type":"","version":"2:1.17~1~bpo11+2-1","hierarchy":"base","priority":"","maintainer":"","packager":"","builddeps":" debhelper-compat (= 13), dh-exec, ","homepage":" https://golang.org","git":"https://salsa.debian.org/go-team/compiler/golang-defaults"}
