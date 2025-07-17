@@ -1,3 +1,9 @@
+golang-defaults (2:1.22~3deepin4) unstable; urgency=medium
+
+  * add golang-go support loong64.
+
+ -- lichenggang <lichenggang@deepin.org>  Thu, 17 Jul 2025 14:53:40 +0800
+
 golang-defaults (2:1.22~3deepin3) unstable; urgency=medium
 
   * Downgrade gccgo-go link to gcc-12
